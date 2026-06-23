@@ -1,6 +1,6 @@
 # CLEAR Lab Open Source
 
-[中文](README.zh-CN.md) | English
+[中文](README-CN.md) | English
 
 CLEAR Lab is building an open-source space for robotics, embodied intelligence, simulation, control, and learning-based robot systems.
 
