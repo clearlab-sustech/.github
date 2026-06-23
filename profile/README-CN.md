@@ -1,6 +1,6 @@
 # CLEAR Lab 开源项目
 
-中文 | [English](README.en.md)
+中文 | [English](README.md)
 
 CLEAR Lab 正在建设一个面向机器人、具身智能、仿真、控制与学习型机器人系统的开源协作空间。
 
