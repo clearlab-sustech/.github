@@ -24,7 +24,7 @@ Projects in this initiative:
 | Project | Status | Scope |
 | --- | --- | --- |
 | [FluxVLA-Tron2](https://github.com/clearlab-sustech/FluxVLA-Tron2) | Experimental research release | FluxVLA / PI0.5 fine-tuning and remote-inference deployment workflows for Tron2 |
-| [World (Action) Models Tutorial](https://clearlab-sustech.github.io/WorldModelSurvey/) | Tutorial release | From World Models to World Action Models: A Concise Tutorial for Robotics |
+| [World (Action) Models Tutorial](https://github.com/clearlab-sustech/WorldModelSurvey) | Tutorial release | From World Models to World Action Models: A Concise Tutorial for Robotics |
 
 <!--
 To add future featured projects, copy one row in the table above and add a short paragraph below it if the project needs more context.
