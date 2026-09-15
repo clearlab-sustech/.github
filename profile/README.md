@@ -21,10 +21,11 @@ CLEAR Lab is working with Limx on selected open-source projects that connect aca
 
 Projects in this initiative:
 
-| Project | Status | Scope |
-| --- | --- | --- |
-| [FluxVLA-Tron2](https://github.com/clearlab-sustech/FluxVLA-Tron2) | Experimental research release | FluxVLA / PI0.5 fine-tuning and remote-inference deployment workflows for Tron2 |
-| [World (Action) Models Tutorial](https://github.com/clearlab-sustech/WorldModelSurvey) | Tutorial release | From World Models to World Action Models: A Concise Tutorial for Robotics |
+| Project | Scope |
+| --- | --- |
+| [FluxVLA-Tron2](https://github.com/clearlab-sustech/FluxVLA-Tron2) | FluxVLA / PI0.5 fine-tuning and remote-inference deployment workflows for Tron2 |
+| [World (Action) Models Tutorial](https://github.com/clearlab-sustech/WorldModelSurvey) | From World Models to World Action Models: A Concise Tutorial for Robotics |
+| [TRON2 + Revo3 Assembly Model](https://github.com/ENDLESS0321/tron2_revo3_description) | Visualize the DACH_TRON2A dual-arm robot, two BrainCo Revo3 hands, the final hand adapters, and the V3 camera brackets.  |
 
 <!--
 To add future featured projects, copy one row in the table above and add a short paragraph below it if the project needs more context.
