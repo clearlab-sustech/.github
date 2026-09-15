@@ -25,8 +25,6 @@ Projects in this initiative:
 | --- | --- |
 | [FluxVLA-Tron2](https://github.com/clearlab-sustech/FluxVLA-Tron2) | FluxVLA / PI0.5 fine-tuning and remote-inference deployment workflows for Tron2 |
 | [World (Action) Models Tutorial](https://github.com/clearlab-sustech/WorldModelSurvey) | From World Models to World Action Models: A Concise Tutorial for Robotics |
-| [TRON2 + Revo3 Assembly Model](https://github.com/ENDLESS0321/tron2_revo3_description) | Visualize the DACH_TRON2A dual-arm robot, two BrainCo Revo3 hands, the final hand adapters, and the V3 camera brackets.  |
-| [TRON2 Deployment on DC](https://github.com/Shukashuki/tron2_deployment_on_dc) | Calibration, object-aware dual-wrist pregrasp planning, RViz trajectory review, and supervised deployment workflows for TRON2 on a DC device |
 
 <!--
 To add future featured projects, copy one row in the table above and add a short paragraph below it if the project needs more context.
