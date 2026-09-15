@@ -25,9 +25,6 @@ CLEAR Lab 正在与 Limx 围绕部分开源项目开展合作，连接高校研�
 | --- | --- | --- |
 | [FluxVLA-Tron2](https://github.com/clearlab-sustech/FluxVLA-Tron2) | 实验性研究发布 | 面向 Tron2 的 FluxVLA / PI0.5 微调与远程推理部署流程 |
 | [World (Action) Models Tutorial](https://github.com/clearlab-sustech/WorldModelSurvey) | 教程发布 | 从世界模型到世界动作模型：面向机器人学的简明教程 |
-| [TRON2 Deployment on DC](https://github.com/Shukashuki/tron2_deployment_on_dc) | 工程工具发布 | 面向 TRON2 在 DC 设备上的标定、物体感知双腕预抓取规划、RViz 轨迹审核与监督式部署流程 |
-
-
 
 <!--
 后续添加新的项目时，可以复制上方表格中的一行；如果项目需要更多解释，再在表格下方补充一段简介。
